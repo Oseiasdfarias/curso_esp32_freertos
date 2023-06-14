@@ -1,1 +1,3 @@
-# curso_esp32_freertos
+# Curso ESP32 freeRTOS
+
+
